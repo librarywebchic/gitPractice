@@ -2,7 +2,7 @@
 
 1. Clone this repo
 ```bash
-git clone https://<username>:<token>@github.com/OCLC-Developer-Network/ezpaarse-platforms
+git clone https://<username>:<token>@github.com/librarywebchic/gitPractice
 ```
 2. Change into directory
 ```bash   
